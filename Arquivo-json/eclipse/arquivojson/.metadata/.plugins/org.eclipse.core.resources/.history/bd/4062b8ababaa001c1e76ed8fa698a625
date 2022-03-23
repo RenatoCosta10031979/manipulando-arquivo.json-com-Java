@@ -1,0 +1,10 @@
+package arquivoJson;
+
+public class MainLerArquivoJson {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

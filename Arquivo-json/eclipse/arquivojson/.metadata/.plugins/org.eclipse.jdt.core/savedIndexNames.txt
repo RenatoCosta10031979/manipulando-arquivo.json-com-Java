@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+/home/cafecomjava/eclipse/arquivojson/.metadata/.plugins/org.eclipse.jdt.core
+274071511.index
+1114528792.index
+1865797976.index
+3639643301.index
